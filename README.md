@@ -1,1 +1,1 @@
-# Credit-Card-with-CSS-JavaScript
+Another project with utilising CSS and JavaScript
