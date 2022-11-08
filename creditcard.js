@@ -1,4 +1,4 @@
-const expirationSelect = document.querySelector("[data-expiration-year]"
+const expirationSelect = document.querySelector("[data-expiration-year]")
 const logo = document.querySelector("[data-logo]")
 
 const currentYear = new Date().getFullYear()
