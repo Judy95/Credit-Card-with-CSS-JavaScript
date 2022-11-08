@@ -1,5 +1,5 @@
 const expirationSelect = document.querySelector("[data-expiration-year]")
-const logo = document.querySelector("[data-logo]")
+const logo = document.querySelector("[data-logo]"
 
 const currentYear = new Date().getFullYear()
 for (let i = currentYear; i < currentYear + 10; i++) {
